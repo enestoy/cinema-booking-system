@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="cinemaSystem.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    
+    <title>Tiex Sinema</title>
+
+    <link href="style.css" rel ="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+                <div class="sayfa">
+
+            <header>
+                <div class="logo">
+                    SİNEMA
+                    
+                </div>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="/">Anasayfa</a>
+                        </li>
+                        <li>
+                            <a href="duyurular.aspx">Duyurular</a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="arama">
+                    <asp:TextBox ID="txtArama" CssClass="txtArama" runat="server"  placeholder="arama"/>
+
+                    <asp:Button ID="btnArama" CssClass="btnArama" Text="Ara" runat="server" />
+
+
+                </div>
+
+            </header>
+
+            <div class="banner">
+                
+            </div>
+
+            <div class="soltaraf">
+                <div class ="kayit">
+                    <div class="ust">
+                        Kullanıcı Girişi
+                    </div>
+                        <div class="alt">
+
+                        <div class="kullanici">
+                            <span>Kullanıcı Adı:</span>
+                            <asp:TextBox ID="kullaniciAdi" CssClass="textbox" runat="server" />
+                        </div>
+
+                        <div class="sifre">
+                             <span>Şifre:</span>
+                             <asp:TextBox ID="txtSifre" CssClass="textbox" runat="server" TextMode="Password"/>
+                        </div>
+
+                        
+                        <asp:Button ID="btnGiris" CssClass="btnGiris" Text="Giriş Yap"  runat="server" OnClick="btnGiris_Click" />
+                        <asp:Label ID="lblSonuc" Text="" runat="server" />
+                        </div>
+
+                    </div>
+
+                
+                <div class ="duyurular">
+                    <div class="ust">
+                        Duyurular
+                    </div>
+                    <div class="alt">
+                        <h5>Back to the Future 4(2021)</h5>
+                        <h5>The Matrix 4(2021)</h5>
+                        <h5>John Wick: Chapter 4(2022)</h5>
+                        <p>çok yakında sinemalarda..</p>
+
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="icerik">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+
+            </div>
+
+            <footer>
+                © Telif Hakkı 2021, Tüm Hakları Saklıdır
+            </footer>
+        </div>
+        
+    </form>
+</body>
+</html>

@@ -1,0 +1,192 @@
+﻿body {
+    background-color:#000000;
+    font-family: Tahoma,Arial,'Times New Roman'
+}
+
+*{
+    margin: 0; /* kenardaki tüm boşluklar */
+    padding: 0; /* içten boşluklar*/
+    border: 0; /*kenardaki çizgiler*/
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+    a:hover {
+        color: black;
+    }
+
+.sayfa {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header {
+    float:left;
+    width:100%;
+    height:45px;
+    background-color: blue;
+    
+}
+    header .logo {
+        float: left;
+        width: 89px;
+        height: 45px;
+        border-right: 1px solid white;
+        text-align: center;
+        line-height: 45px;
+        color: white;
+
+    }
+    header nav {
+        float: left;
+        width: 609px;
+        height: 45px;
+        border-right: 1px solid white;
+        line-height: 45px;
+    }
+        header nav ul {
+            list-style: none;
+        }
+        header nav ul li {
+            float: left;
+            margin-left: 15px;
+            color: #ffffff;
+        }
+    header .arama{
+        float: left;
+        width: 260px;
+        height: 45px;
+    }
+        header .arama .txtArama {
+            float: left;
+            width: 190px;
+            padding:10px;
+            height: 25px;
+
+        }
+        header .arama .btnArama{
+            float:left;
+            width:49px;
+            height:45px;
+            border-left: 1px solid #808080
+        }
+
+.banner {
+    float: left;
+    margin-top: 45px;
+    width: 960px;
+    height: 360px;
+    line-height: 360px;
+    text-align: center;
+    color:white;
+    font-size: 56px;
+    background-image: url("/resim/logo0.png");
+    background-size: cover;
+
+}
+
+.soltaraf {
+    float: left;
+    width:285px;
+    height: auto;
+    margin-top:45px;
+}
+    .soltaraf .kayit{
+        float:left;
+        width:285px;
+        height:auto;
+        
+
+    }
+    .soltaraf .kayit .ust{
+        float:left;
+        width:270px;
+        height:44px;
+        line-height:44px;
+        padding-left: 15px;
+        border-bottom: 1px solid #ccc;
+        background-color:#ffffff;
+        color: #555;
+    }
+    .soltaraf .kayit .alt {
+        float: left;
+        width: 250px;
+        padding:17.5px;
+        height: 190px;
+        border-bottom: 1px solid #ccc;
+        color:#555;
+        background-color: #ffffff
+    }
+        .soltaraf .kayit .alt .sifre {
+            margin-top: 15px;
+        }
+        .soltaraf .kayit .alt .textbox {
+            width: 228px;
+            padding:10px;
+            height: 18px;
+            border: 1px solid #ccc;
+        }
+        .soltaraf .kayit .alt .btnGiris {
+            float: right;
+            margin-top: 10px;
+            width: 100px;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            color: #ffffff;
+            background-color: #0026ff;
+        }
+        .soltaraf .duyurular{
+            float:left;
+            width:285px;
+            height:auto;
+            margin-top:45px;
+        }
+
+            .soltaraf .duyurular .ust {
+                float: left;
+                width: 270px;
+                height: 44px;
+                line-height: 44px;
+                padding-left: 15px;
+                border-bottom: 1px solid #ccc;
+                color: #555;
+                background-color: #ffffff;
+            }
+
+
+            .soltaraf .duyurular .alt {
+                float: left;
+                width: 250px;
+                padding: 17.5px;
+                height: auto;
+                border-bottom: 1px solid #ccc;
+                color: #555;
+                background-color: #ffffff
+            }
+
+
+
+ .icerik {
+      float: right;
+      width: 625px;
+      height: auto;
+      margin-top: 45px;
+      background-color: #fff;
+
+ }
+
+footer {
+    float:left;
+    width:100%;
+    height:60px;
+    margin-top:45px;
+    background-color: #fff;
+    text-align: center;
+    line-height:60px;
+
+}

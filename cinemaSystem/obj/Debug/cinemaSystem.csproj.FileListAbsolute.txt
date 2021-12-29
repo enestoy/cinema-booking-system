@@ -1,0 +1,174 @@
+C:\Users\apollo software\source\repos\cinemaSystem\bin\cinemaSystem.dll.config
+C:\Users\apollo software\source\repos\cinemaSystem\bin\cinemaSystem.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\cinemaSystem.pdb
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\csc.exe
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\csc.exe.config
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\csc.rsp
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\csi.exe
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\csi.exe.config
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\csi.rsp
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Console.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\vbc.exe
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\vbc.exe.config
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\vbc.rsp
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\apollo software\source\repos\cinemaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\apollo software\source\repos\cinemaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\apollo software\source\repos\cinemaSystem\obj\Debug\cinemaSystem.csproj.AssemblyReference.cache
+C:\Users\apollo software\source\repos\cinemaSystem\obj\Debug\cinemaSystem.csproj.CoreCompileInputs.cache
+C:\Users\apollo software\source\repos\cinemaSystem\obj\Debug\cinemaSystem.csproj.CopyComplete
+C:\Users\apollo software\source\repos\cinemaSystem\obj\Debug\cinemaSystem.dll
+C:\Users\apollo software\source\repos\cinemaSystem\obj\Debug\cinemaSystem.pdb
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\cinemaSystem.dll.config
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\cinemaSystem.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\cinemaSystem.pdb
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\csc.exe
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\csc.exe.config
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\csc.rsp
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\csi.exe
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\csi.exe.config
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\csi.rsp
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Console.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\vbc.exe
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\vbc.exe.config
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\vbc.rsp
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\obj\Debug\cinemaSystem.csproj.AssemblyReference.cache
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\obj\Debug\cinemaSystem.csproj.CoreCompileInputs.cache
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\obj\Debug\cinemaSystem.csproj.CopyComplete
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\obj\Debug\cinemaSystem.dll
+C:\Users\apollo software\OneDrive\Masaüstü\web programlama ödevi\cinemaSystem\obj\Debug\cinemaSystem.pdb
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\cinemaSystem.dll.config
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\cinemaSystem.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\cinemaSystem.pdb
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\csc.exe
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\csc.exe.config
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\csc.rsp
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\csi.exe
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\csi.exe.config
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\csi.rsp
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.AppContext.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Console.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.IO.Compression.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Net.Http.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Net.Sockets.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.ValueTuple.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Xml.XPath.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\vbc.exe
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\vbc.exe.config
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\vbc.rsp
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\VBCSCompiler.exe
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\obj\Debug\cinemaSystem.csproj.AssemblyReference.cache
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\obj\Debug\cinemaSystem.csproj.CoreCompileInputs.cache
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\obj\Debug\cinemaSystem.csproj.CopyComplete
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\obj\Debug\cinemaSystem.dll
+D:\ders\web prog\1207008021 -ENES TOY1\cinemaSystem\obj\Debug\cinemaSystem.pdb
